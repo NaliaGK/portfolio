@@ -1,7 +1,7 @@
 draft 
 
 # Nalia Graciella K
-Data Scientist | Data Analyst | IISMA Awardee 2023 | 
+
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
 ## Education
