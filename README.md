@@ -8,7 +8,7 @@
 
 ## Education		        		
 - Bachelor of Data Science | Universitas Airlangga (_September 2024_)
-- Visiting Student | University College Cork, Cork, Ireland (_September - December 2023)
+- IISMA Awardee 2023 | University College Cork, Cork, Ireland (_September - December 2023)
 
 ## Work Experience
 **Facilitator | Indonesia's Corruption Eradication Commission (KPK), Surabaya (_July 2024_)**
