@@ -32,9 +32,8 @@ Conducted thesis research on clustering fake follower accounts on Instagram in I
 ![Clustering Result](/assets/images/cluster_result.png)
 
 ### Drupal Website : St-Gameon
-
+[Project Site](https://dev-st-gameon.pantheonsite.io)
 Developed a website named St-Gameon, providing the latest news, information, and discoveries in the world of gaming soundtracks. Utilized Pantheon for hosting and integrated DBMS for efficient content management and storage.
 
-![Clustering Result](/assets/images/cluster_result.png)
+![Clustering Result](/assets/images/st_gameon.png)
 
-[Project Site](https://dev-st-gameon.pantheonsite.io)
