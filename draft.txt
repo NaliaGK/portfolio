@@ -33,12 +33,32 @@ Conducted thesis research on clustering fake follower accounts on Instagram in I
 
 ![Clustering Result](/assets/images/cluster_result.png)
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+### Drupal Website : St-Gameon
+[Project Site](https://dev-st-gameon.pantheonsite.io)
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+Developed a website named St-Gameon, providing the latest news, information, and discoveries in the world of gaming soundtracks. Utilized Pantheon for hosting and integrated DBMS for efficient content management and storage.
 
-![Bike Study](/assets/img/bike_study.jpeg)
+![Website](/assets/images/st_gameon.png)
+
+### Surabaya Rainfall Prediction
+
+Developed a rainfall prediction model for Surabaya using XGBoost, with comparisons to SVM, Random Forest, and Logistic Regression.
+
+![Website](/assets/images/st_gameon.png)
+
+### Kompas Insights in Sentiment Analysis, WordCloud, and Summary (KomSight)
+[Github Page](https://github.com/NaliaGK/KomSight)
+
+Created a website that offers users the ability to quickly and accurately obtain news summaries and sentiment analysis of the information from Kompas.com. 
+![Website](/assets/images/st_gameon.png)
+
+### TweeToxicity
+[Github Page](https://github.com/Neek0tine/Tweetoxicity)
+
+Contributed in the creation of a website that analyzes user behavior on the social media platform Twitter through their actions on their Twitter Profile, utilizing machine learning to give Twitter users an appropriate score according to their tweets or retweets. 
+
+![Website](/assets/images/st_gameon.png)
+
 
 ## Publications
 Kerrysa, N. G., & Utami, I. Q. (2023). Fake account detection in social media using machine learning methods: literature review. Bulletin of Electrical Engineering and Informatics, 12(6), 3790-3797. DOI: 10.11591/eei.v12i6.5334
