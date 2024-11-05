@@ -47,9 +47,10 @@ Developed a machine learning model to predict daily rainfall intensity in Suraba
 
 ### Kompas Insights in Sentiment Analysis, WordCloud, and Summary (KomSight)
 [Github Page](https://github.com/NaliaGK/KomSight)
+![Website](/assets/images/komsight1.png)
 
-Created a website that offers users the ability to quickly and accurately obtain news summaries and sentiment analysis of the information from Kompas.com. 
-![Website](/assets/images/st_gameon.png)
+Contributed in the development of a WebApp for summarization and sentiment analysis on news articles from Kompas, a popular Indonesian news platform. This tool addresses user experience challenges on the site, such as ad-heavy layouts, by providing readers with concise summaries and sentiment insights. The app employs mT5 for text summarization, chosen for its proficiency in handling sequential data. For sentiment analysis, MultinomialNB, SVM, and Logistic Regression models were utilized to enhance accuracy through consensus. For example, if SVM and MultinomialNB were positive while LR was negative, the result defaults to positive. SVM delivered the highest sentiment accuracy at 97%, followed by LR at 95% and MultinomialNB at 90%. 
+![Website](/assets/images/komsight2.png)
 
 ### TweeToxicity
 [Github Page](https://github.com/Neek0tine/Tweetoxicity)
