@@ -54,7 +54,5 @@ Contributed in the development of a WebApp for summarization and sentiment analy
 
 Contributed to the development of TweeToxicity, a web application designed to analyze Twitter user behavior by scoring tweets and retweets with machine learning, focused on building the front end, utilizing Bootstrap CSS and Bootstrap Studio to create a responsive, dynamic interface that adapts seamlessly across devices. The app retrieves user data via the Twitter API, with a backup scraping option through the Requests module for reliability. This educational tool provides users with insights into their social media interactions, promoting awareness and reflection on digital behavior.
 
-![Website](/assets/images/tweetox.png)
-
-## Publications
+## Publication
 Kerrysa, N. G., & Utami, I. Q. (2023). Fake account detection in social media using machine learning methods: literature review. Bulletin of Electrical Engineering and Informatics, 12(6), 3790-3797. DOI: [10.11591/eei.v12i6.5334](https://www.beei.org/index.php/EEI/article/view/5334)
