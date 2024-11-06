@@ -12,7 +12,7 @@
 
 ## Work Experience
 **Facilitator | Indonesia's Corruption Eradication Commission (KPK), Surabaya (_July 2024_)**
-- Led and documented Integrity Reflection and Actualization Training (PRESTASI) program, assisting in activity preparation and detailed notes for program development
+- Documented event activities, assisting in activity preparation and detailed notes of program development
 - Demonstrated organizational skills and attention to detail in supporting the training program
 
 **Statistical Computing Lab Assistant | Universitas Airlangga, Surabaya (_February - June 2023; February - June 2024_)**
