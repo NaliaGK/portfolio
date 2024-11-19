@@ -28,13 +28,13 @@
 
 Conducted thesis research on clustering fake follower accounts on Instagram in Indonesia, using HDBSCAN to identify dominant fake follower characteristics with effective machine learning performance. The formation of clusters using the HDBSCAN method achieved high performance with a Silhouette Index value of 0,77, a Davis-Bouldin Index of 0,34, and a Density-Based Clustering Validation value of 0,71. The HDBSCAN model results indicate that clusters characterized by the user's default  profile picture, a low number of words in the bio, the number of accounts that include links, the number of posts, the average length of descriptions, and the use of formal Indonesian words indicate a fake follower account. Additionally, it was found that the features of biography and post description text did not significantly impact the clustering results of Indonesian Instagram accounts.
 
-![|500](/assets/images/cluster_result.png)
+![](/assets/images/cluster_result.png)
 
 ### [Drupal Website : St-Gameon](https://dev-st-gameon.pantheonsite.io)
 
 Developed a website named St-Gameon, providing the latest news, information, and discoveries in the world of gaming soundtracks. Utilized Pantheon for hosting and integrated DBMS for efficient content management and storage.
 
-![|500](/assets/images/st_gameon.png)
+![](/assets/images/st_gameon.png)
 
 ### Surabaya Rainfall Prediction
 
