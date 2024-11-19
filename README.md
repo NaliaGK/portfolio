@@ -38,7 +38,7 @@ Developed a website named St-Gameon, providing the latest news, information, and
 
 ### Surabaya Rainfall Prediction
 
-![Rain intensity each month 2019-2021](/assets/images/rainfall.png)
+![Rain intensity each month 2019-2021](/assets/images/rainfall2.png)
 
 Developed a machine learning model to predict daily rainfall intensity in Surabaya, identifying that factors such as evening humidity, prior day’s rain or thunder events, and 24-hour humidity significantly impact the predictions. Using Random Forest, the model achieved an accuracy of 77% for rainfall intensity classification. Additionally, an XGBoost model effectively predicted light rain days but was less accurate with moderate to heavy rainfall. Overall, the model explained 32.8% of the variance in next-day rainfall, providing valuable insights for enhancing local weather forecasting and resource planning.
 ![Rainfall Prediction](/assets/images/prediction.png)
